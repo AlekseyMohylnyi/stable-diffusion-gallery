@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkstable_diffusion_gallery"]=self["webpackChunkstable_diffusion_gallery"]||[]).push([[443],{7381:function(n,a,e){e.r(a),e.d(a,{default:function(){return o}});var s=e(3396);const u={class:"about"},t=(0,s._)("h1",null,"This is an about page",-1),r=[t];function i(n,a){return(0,s.wg)(),(0,s.iD)("div",u,r)}var l=e(89);const f={},c=(0,l.Z)(f,[["render",i]]);var o=c}}]);
+//# sourceMappingURL=about.8697935f.js.map
