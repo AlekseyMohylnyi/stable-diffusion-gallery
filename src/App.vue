@@ -22,7 +22,7 @@ export default {
   --grey: rgba(37, 37, 38, 0.5);
 
   --main-color: var(--black);
-  --bg-color: var(--white);
+  --bg-color: #c6c6c6;
   --nav-btn-bg: inherit;
 
   --nav-height: 3.2rem;
@@ -42,7 +42,7 @@ export default {
 #app {
   padding-top: var(--nav-height);
   min-height: 100vh;
-  /* background-color: var(--bg-color); */
+  background-color: var(--bg-color);
   color: var(--main-color);
   font-family: "Lobster", cursive;
   font-size: 18px;
